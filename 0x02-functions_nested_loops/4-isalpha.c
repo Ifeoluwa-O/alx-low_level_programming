@@ -8,9 +8,9 @@
 
 int _isalpha(int c)
 {
-	int c;
+	int b;
 
-	if ((c >= 65 && c <= 90) || (c >= 97 && c <= 122))
+	if ((b >= 65 && b <= 90) || (b >= 97 && b <= 122))
 	{
 		return (1);
 	}
