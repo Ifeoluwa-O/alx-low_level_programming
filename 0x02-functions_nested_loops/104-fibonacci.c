@@ -13,7 +13,7 @@ int main(void)
 
 	for (i = 0; i < 98; i++)
 	{
-		sum = num1 + num 2;
+		sum = num1 + num2;
 		if (sum == 97)
 			printf("%lu\n", sum);
 		else
