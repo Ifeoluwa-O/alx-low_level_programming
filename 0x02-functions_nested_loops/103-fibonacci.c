@@ -17,7 +17,7 @@ int main(void)
 
 	while (nextNum < 4000000)
 	{
-		nextNem = num1 + num2;
+		nextNum = num1 + num2;
 		if (nextNum % 2 == 0)
 		{
 			sum += nextNum;
