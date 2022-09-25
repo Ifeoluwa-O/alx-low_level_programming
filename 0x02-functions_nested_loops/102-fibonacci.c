@@ -12,14 +12,10 @@ int main(void)
 
 	num1 = 0;
 	num2 = 1;
-
-	printf("%lu, ", num1);
-	printf("%lu, ", num2);
-
-	for (i = 0; i < 48; i++)
+	for (i = 0; i < 50; i++)
 	{
 		nextNum = num1 + num2;
-		if (i == 47)
+		if (i == 49)
 			printf("%lu\n", nextNum);
 		else
 			printf("%lu, ", nextNum);
