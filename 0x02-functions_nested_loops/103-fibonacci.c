@@ -11,7 +11,7 @@ int main(void)
 	long int num1, num2, nextNum, sum;
 
 	num1 = 0;
-	num2 = 2;
+	num2 = 1;
 	nextNum = 0;
 	sum = 0;
 
