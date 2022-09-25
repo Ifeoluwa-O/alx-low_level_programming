@@ -18,8 +18,8 @@ int main(void)
 			printf("%lu\n", sum);
 		else
 			printf("%lu, ", sum);
+		num1 = num2;
 		num2 = sum;
-		sum += num2;
 	}
 	return (0);
 }
