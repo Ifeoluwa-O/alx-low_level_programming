@@ -18,3 +18,4 @@ int _isupper(int c)
 		_putchar("%d", 0);
 		return (0);
 	}
+}
