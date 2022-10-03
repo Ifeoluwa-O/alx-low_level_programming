@@ -19,6 +19,6 @@ int main(void)
 			printf("FizzBuzz ");
 		else
 			printf("%d ", t);
-		return (0);
 	}
+	return (0);
 }
