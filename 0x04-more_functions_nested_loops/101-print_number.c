@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * print_number- a function that prints an integer
@@ -6,7 +8,7 @@
  * Return: Always 0
  */
 
-void print_number(unsigned int n)
+void print_number(int n)
 {
 	unsigned int n1 = 0;
 
